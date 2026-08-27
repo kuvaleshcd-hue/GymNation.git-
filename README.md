@@ -4,7 +4,7 @@ A modern, high-performance, and feature-rich Web Application designed for **Gymn
 
 ---
 
-## 📸 Screenshots & Showcase
+## 📸 Screenshots
 
 ### 💥 Hero Section & Landing Banner
 > *Dark-mode dynamic aesthetic with high-definition dumbbell backdrop, animated layered typography, and instant call-to-action buttons for trial booking and membership selection.*
