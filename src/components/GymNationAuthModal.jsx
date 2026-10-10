@@ -208,6 +208,7 @@ export default function GymNationAuthModal({ isOpen, onClose, onLoginSuccess, on
         setGeneratedOtp(code);
         setPhoneConfirmationResult(null);
         dispatchSmsOtp(targetNumber, code);
+        alert('DEVELOPMENT MODE FALLBACK\\n\\nSince Firebase requires a credit card to send real SMS, your test OTP code is: ' + code);
         setOtpDigits(['', '', '', '', '', '']);
         setTimer(30);
         setCanResend(false);
