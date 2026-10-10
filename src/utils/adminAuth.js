@@ -35,6 +35,11 @@ const ADMINS = [
     ids: ['satyam@gmail.com'],
     password: '123456',
   },
+  {
+    name: 'Gym Owner',
+    ids: ['admin'],
+    password: 'admin',
+  },
 ];
 
 const SESSION_KEY = 'gymnation_admin_session';
