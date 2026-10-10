@@ -20,6 +20,12 @@
     color: #f8fafc;
     font-family: 'Outfit', sans-serif;
     -webkit-font-smoothing: antialiased;
+    accent-color: #f97316;
+  }
+
+  ::selection {
+    background-color: #f97316;
+    color: #ffffff;
   }
 }
 
